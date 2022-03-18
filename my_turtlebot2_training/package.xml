@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>my_turtlebot2_training</name>
+  <version>0.0.0</version>
+  <description>The my_turtlebot2_training package</description>
+
+  <maintainer email="sachinkum123567@gmail.com">Sachin Kumar</maintainer>
+
+
+  <license>MIT</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <export>
+
+  </export>
+</package>
